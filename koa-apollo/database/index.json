@@ -1,0 +1,66 @@
+{
+  "grade": [
+    {
+      "id": 1,
+      "name": "一年级"
+    },
+    {
+      "id": 2,
+      "name": "二年级"
+    }
+  ],
+  "class": [
+    {
+      "id": 1,
+      "name": "1班",
+      "gradeId": 1
+    },
+    {
+      "id": 2,
+      "name": "2班",
+      "gradeId": 1
+    },
+    {
+      "id": 3,
+      "name": "1班",
+      "gradeId": 2
+    },
+    {
+      "id": 4,
+      "name": "2班",
+      "gradeId": 2
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "name": "小A",
+      "classId": 1
+    },
+    {
+      "id": 2,
+      "name": "小B",
+      "classId": 1
+    },
+    {
+      "id": 3,
+      "name": "小C",
+      "classId": 2
+    },
+    {
+      "id": 4,
+      "name": "小D",
+      "classId": 2
+    },
+    {
+      "id": 5,
+      "name": "小E",
+      "classId": 3
+    },
+    {
+      "id": 6,
+      "name": "小F",
+      "classId": 3
+    }
+  ]
+}
